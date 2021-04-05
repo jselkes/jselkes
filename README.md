@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jselkes
 - 👀 I’m interested in sociolinguistics and computer science
-- 🌱 I’m currently learning Japanese and python
+- 🌱 I’m currently learning Japanese and java
 - 💞️ I’m looking to collaborate on ... tbd
 - 📫 How to reach me: julianneselke@gmail.com
 
