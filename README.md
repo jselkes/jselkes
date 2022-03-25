@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jselkes I'm sorta new(ish) here
+- 👋 Hi, I’m @jselkes I'm sorta new(ish) here and am a fresh bud in coding and CS
 - 👀 I’m interested in linguistics and computer science
 - 🌱 I’m currently learning Japanese and java
 - 💞️ I'm currently a technical recruiter at Expedia Group hiring Data & Software Engineers, Data Scientists, & Machine Learning Scientists.
